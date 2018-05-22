@@ -1,1 +1,1 @@
-# Ruby on Rails Practice## Environment* Windows 10* Ruby 2.3.3* Rails 5.1.6* Localhost* Port 3000* Command Prompt with Ruby and Rails## Installation[RailsInstaller](http://railsinstaller.org/en)
+# Ruby on Rails Practice## Environment* Windows 10* Ruby 2.3.3* Rails 5.1.6* Localhost* Port 3000* Command Prompt with Ruby and Rails## Installation[RailsInstaller](http://railsinstaller.org/en)## Guide### [Rails Routing from the Outside In](http://guides.rubyonrails.org/routing.html)
